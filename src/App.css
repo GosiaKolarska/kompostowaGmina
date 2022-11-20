@@ -3,6 +3,18 @@
   font-weight: 500;
 }
 
+body {
+  display: flex;
+  justify-content: center;
+}
+
+#root {
+  width: 390px;
+  height: 844px;
+  border: 2px solid;
+  border-radius: 12px;
+  overflow: scroll;
+}
 label.form-label {
   font-size: 14px;
   line-height: 20px;

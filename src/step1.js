@@ -45,19 +45,19 @@ export const Step1 = ({page,setPage}) => {
 
                 <Form.Label>Szerokość</Form.Label>
                 <InputGroup className="mb-3">
-                  <Form.Control id="basic-url" aria-describedby="input-addon1" type="text" placeholder="110"/>
+                  <Form.Control type="number" aria-describedby="input-addon1" placeholder="110"/>
                   <InputGroup.Text className="input-addon" id="input-addon1">cm</InputGroup.Text>
                 </InputGroup>
 
                   <Form.Label>Długość</Form.Label>
                   <InputGroup className="mb-3">
-                    <Form.Control id="basic-url" aria-describedby="input-addon2" type="text" placeholder="110"/>
+                    <Form.Control type="number" aria-describedby="input-addon2" placeholder="110"/>
                     <InputGroup.Text className="input-addon" id="input-addon2">cm</InputGroup.Text>
                   </InputGroup>
 
                 <Form.Label>Wysokość</Form.Label>
                 <InputGroup className="mb-3">
-                  <Form.Control id="basic-url" aria-describedby="input-addon3" type="text" placeholder="110"/>
+                  <Form.Control type="number" aria-describedby="input-addon3" placeholder="110"/>
                   <InputGroup.Text className="input-addon" id="input-addon3">cm</InputGroup.Text>
                 </InputGroup>
 
@@ -74,7 +74,7 @@ export const Step1 = ({page,setPage}) => {
             </Card.Title>
               <Form className="form-liters">
                 <InputGroup className="mb-3">
-                  <Form.Control id="basic-url" aria-describedby="input-addon4" type="text" placeholder="110"/>
+                  <Form.Control type="number" aria-describedby="input-addon4" placeholder="110"/>
                   <InputGroup.Text className="input-addon" id="input-addon4">l</InputGroup.Text>
                 </InputGroup>
               </Form>
@@ -120,7 +120,7 @@ export const Step1 = ({page,setPage}) => {
             </Card.Title>
               <Form className="form-liters">
                 <InputGroup className="mb-3">
-                  <Form.Control id="basic-url" aria-describedby="input-addon4" type="text" placeholder="35"/>
+                  <Form.Control aria-describedby="input-addon4" type="number" placeholder="35"/>
                   <InputGroup.Text className="input-addon" id="input-addon4">l</InputGroup.Text>
                 </InputGroup>
               </Form>
@@ -135,7 +135,7 @@ export const Step1 = ({page,setPage}) => {
             </Card.Title>
               <Form className="form-liters">
                 <InputGroup className="mb-3">
-                  <Form.Control id="basic-url" aria-describedby="input-addon4" type="text" placeholder="35"/>
+                  <Form.Control aria-describedby="input-addon4" type="number" placeholder="35"/>
                   <DropdownButton
                     variant="outline-secondary"
                     title="tygodniowo"
