@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.011b6696.css",
-    "main.js": "/react-gh-pages/static/js/main.1bcb27d9.js",
-    "static/js/787.c523dbd8.chunk.js": "/react-gh-pages/static/js/787.c523dbd8.chunk.js",
-    "static/media/money.svg": "/react-gh-pages/static/media/money.c501ae5e825c08d1ffcf4e8b54ffed5c.svg",
-    "static/media/sukcess.svg": "/react-gh-pages/static/media/sukcess.cfa3514fdafa1050d150f6dbb73d9694.svg",
-    "static/media/calculator.svg": "/react-gh-pages/static/media/calculator.85accd62523712ffdbdbe33fa964abc7.svg",
-    "static/media/bike.svg": "/react-gh-pages/static/media/bike.9a74dd25c0fee9f21ed3a77c40c1309d.svg",
-    "static/media/refresh.svg": "/react-gh-pages/static/media/refresh.a50896fe9f5667539d6d1055b75212a7.svg",
-    "static/media/drop.svg": "/react-gh-pages/static/media/drop.3fc036fda9e3f0de6fbbee0860430c65.svg",
-    "static/media/road.svg": "/react-gh-pages/static/media/road.dfa25bb1d820b3b6fc364ad5fba81ec4.svg",
-    "static/media/lamp.svg": "/react-gh-pages/static/media/lamp.3b0c5394064b6f3d49aa2d5d5e97e8a4.svg",
-    "static/media/size.svg": "/react-gh-pages/static/media/size.2c95c69b762aa38a59bd4257d50d9fb6.svg",
-    "static/media/trash.svg": "/react-gh-pages/static/media/trash.35f1f3669489781a234052764127fd37.svg",
-    "static/media/025.svg": "/react-gh-pages/static/media/025.e58a04c0eddd8c76c897391f49eefd4a.svg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.011b6696.css.map": "/react-gh-pages/static/css/main.011b6696.css.map",
-    "main.1bcb27d9.js.map": "/react-gh-pages/static/js/main.1bcb27d9.js.map",
-    "787.c523dbd8.chunk.js.map": "/react-gh-pages/static/js/787.c523dbd8.chunk.js.map"
+    "main.css": "/kompostowaGmina/static/css/main.011b6696.css",
+    "main.js": "/kompostowaGmina/static/js/main.928209db.js",
+    "static/js/787.c523dbd8.chunk.js": "/kompostowaGmina/static/js/787.c523dbd8.chunk.js",
+    "static/media/money.svg": "/kompostowaGmina/static/media/money.c501ae5e825c08d1ffcf4e8b54ffed5c.svg",
+    "static/media/sukcess.svg": "/kompostowaGmina/static/media/sukcess.cfa3514fdafa1050d150f6dbb73d9694.svg",
+    "static/media/calculator.svg": "/kompostowaGmina/static/media/calculator.85accd62523712ffdbdbe33fa964abc7.svg",
+    "static/media/bike.svg": "/kompostowaGmina/static/media/bike.9a74dd25c0fee9f21ed3a77c40c1309d.svg",
+    "static/media/refresh.svg": "/kompostowaGmina/static/media/refresh.a50896fe9f5667539d6d1055b75212a7.svg",
+    "static/media/drop.svg": "/kompostowaGmina/static/media/drop.3fc036fda9e3f0de6fbbee0860430c65.svg",
+    "static/media/road.svg": "/kompostowaGmina/static/media/road.dfa25bb1d820b3b6fc364ad5fba81ec4.svg",
+    "static/media/lamp.svg": "/kompostowaGmina/static/media/lamp.3b0c5394064b6f3d49aa2d5d5e97e8a4.svg",
+    "static/media/size.svg": "/kompostowaGmina/static/media/size.2c95c69b762aa38a59bd4257d50d9fb6.svg",
+    "static/media/trash.svg": "/kompostowaGmina/static/media/trash.35f1f3669489781a234052764127fd37.svg",
+    "static/media/025.svg": "/kompostowaGmina/static/media/025.e58a04c0eddd8c76c897391f49eefd4a.svg",
+    "index.html": "/kompostowaGmina/index.html",
+    "main.011b6696.css.map": "/kompostowaGmina/static/css/main.011b6696.css.map",
+    "main.928209db.js.map": "/kompostowaGmina/static/js/main.928209db.js.map",
+    "787.c523dbd8.chunk.js.map": "/kompostowaGmina/static/js/787.c523dbd8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.011b6696.css",
-    "static/js/main.1bcb27d9.js"
+    "static/js/main.928209db.js"
   ]
 }
