@@ -1,0 +1,329 @@
+* {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+label.form-label {
+  font-size: 14px;
+  line-height: 20px;
+  color: #374151;
+  font-weight: 500;
+}
+
+input.form-control {
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  padding: 9px;
+}
+.App {
+text-align: center;
+margin-left: 20px;
+  margin-right: 20px;
+}
+
+.App-header {
+  max-width: 240px;
+  margin: 15px;
+  text-align: left;
+  padding-bottom: 52px;
+}
+
+.title_choose-tab {
+  font-size: 12px;
+  font-weight: 700;
+  text-align-last: left;
+  color: #00000080;
+}
+.App-header h1 {
+  font-size: 24px;
+  line-height: 29px;
+  font-weight: 700;
+}
+
+.header-img {
+  margin-bottom: 24px;
+}
+
+.card-item.card {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: left;
+  background: #F8F8F8;
+  border: unset;
+  border-radius: 12px;
+}
+
+.card-item .card-body .card-title {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 20px;
+  color: #000;
+}
+
+.step1 .card-title img {
+  padding-right: 10px;
+}
+
+.card-item .card-body .card-subtitle {
+  font-size: 12px;
+  font-weight: 700;
+  color: #0000004d;
+}
+
+
+
+.form-quantity .form-control {
+  font-size: 14px;
+  line-height: 20px;
+  color: #1F2937;
+  font-weight: 400;
+  padding: 9px;
+  border-right: unset;
+}
+
+.btn.btn-calc {
+  border-radius: 4px;
+  margin-bottom: 25px;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 500;
+}
+
+.form-quantity .input-group .input-addon {
+  font-size: 14px;
+  color: #9FA6B2;
+  font-weight: 400;
+  background-color: #fff;
+}
+
+.form-liters .form-control {
+  border-right: unset;
+}
+
+.form-liters .input-group .input-addon {
+  font-size: 14px;
+  color: #9FA6B2;
+  font-weight: 400;
+  background-color: #fff;
+}
+
+.nav.nav-tabs {
+  border-bottom: unset;
+}
+
+.nav-tabs.main-tabs .nav-link {
+  font-size: 14px;
+  line-height: 17px;
+  font-weight: 700;
+  color: #000;
+  border: 2px solid #DADADA;
+  background-color: #fff;
+  border-radius: 12px;
+  height: 100%;
+  padding: 19px 22px;
+}
+
+.nav-tabs.main-tabs .nav-link.active {
+  color: #000;
+  border: 2px solid #2563EB;
+  background-color: #2563EB1A;
+}
+
+.nav-item:first-child {
+  padding-right: 5px;
+}
+
+.nav-item:last-child {
+  padding-left: 5px;
+}
+
+.card.card-success {
+  background: #ecfef6;
+  box-shadow: 0px 4px 6px -1px rgba(0, 0, 0, 0.1), 0px 2px 4px -1px rgba(0, 0, 0, 0.06);
+  border-radius: 8px;
+  margin-bottom: 27px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+    padding: 50px;
+    border: none;
+  }
+  
+  .card-success .card-body {
+    padding: 0;
+  }
+  
+  .card-success .card-title {
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 600;
+    padding-top: 24px;
+  }
+  
+  .card-success .card-text {
+    font-size: 14px;
+    max-width: 210px;
+    line-height: 20px;
+  }
+  
+  .wrapper {
+    padding: 20px;
+  }
+  
+  .step3_title {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    text-align: center;
+    padding: 25px 0 8px;
+  }
+  
+  .step3_card.card {
+    margin: 0 20px 20px;
+    background: #fff;
+    text-align: center;
+    padding: 18px 25px;
+    border: unset;
+  }
+  
+  .step3_card .card-body {
+    padding: 0;
+  }
+  
+  .step3_card .card-body img {
+    padding: 9px 0 18px;
+  }
+  
+  .step3.wrapper {
+    background-color: #F3F4F6;
+    padding: 0;
+  }
+  
+  .step3_form {
+    background-color: #fff;
+    padding: 20px;
+  }
+  
+  .card-link {
+    font-size: 12px;
+    line-height: 12px;
+  }
+  
+  .step3_form-title {
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: 500;
+    padding-bottom: 16px;
+  }
+  
+  .step-3__btn {
+    background: #fff;
+    padding: 0 20px;
+  }
+  
+  .step2_card.card {
+    border: unset;
+    background: #F8F8F8;
+    border-radius: 12px;
+    margin-bottom: 16px;
+  }
+  
+  .step2 .list-group .list-group-item {
+    margin: 7px 0;
+    background-color: #00B7121A;
+    border-radius: 8px;
+    border: unset;
+    padding: 17px;
+    color: #00B712;
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: 600;
+  }
+  
+  .step2 .list-group .list-group-item img {
+    padding-right: 16px;
+  }
+  
+  .step2 .accordion .accordion-item .accordion-button {
+    background: #F8F8F8;
+    text-decoration: underline;
+    color: #2563EB;
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 500;
+    padding: 23px 1px 0;
+  }
+  
+  .step2 .accordion .accordion-item {
+    background: unset;
+    border: unset;
+  }
+  
+  .step2 .accordion .accordion-item .accordion-body {
+    border-top: unset;
+    padding: 23px 1px 0;
+  }
+  
+  .step2 .accordion .accordion-button:not(.collapsed) {
+    box-shadow: unset;
+  }
+  
+  .step2 .accordion .accordion-button:focus {
+    border: unset;
+    box-shadow: unset;
+  }
+  
+  .h1-sub {
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 58px;
+    color: #00B712;
+  }
+  
+  .h1-sub-grey {
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 20px;
+    color: #8C8C8C;
+  }
+  
+  .step2 .App-header {
+    margin: 0 15px;
+  }
+  
+  .btn-step2,
+  .btn-step3 {
+    width: 80%;
+  }
+  
+  .input-group .btn.dropdown-toggle {
+    background: #fff;
+    border: 1px solid #ced4da;
+}
+
+datalist {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+option {
+  padding: 0;
+  font-size: 12px;
+  line-height: 18px;
+  color: #1F2937;
+  font-weight: 700;
+}
+input[type="range"] {
+  margin: 0;
+}
+.form-range-left {
+  width: 100%;
+  padding-right: 20px;
+}
+
+input[type="range"]::-webkit-slider-thumb {
+  background: #00B712;
+}
