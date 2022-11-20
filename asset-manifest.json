@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/kompostowaGmina/static/css/main.011b6696.css",
-    "main.js": "/kompostowaGmina/static/js/main.928209db.js",
-    "static/js/787.c523dbd8.chunk.js": "/kompostowaGmina/static/js/787.c523dbd8.chunk.js",
+    "main.css": "/kompostowaGmina/static/css/main.4f01a7bd.css",
+    "main.js": "/kompostowaGmina/static/js/main.8fa00a5c.js",
+    "static/js/787.bd5568af.chunk.js": "/kompostowaGmina/static/js/787.bd5568af.chunk.js",
     "static/media/money.svg": "/kompostowaGmina/static/media/money.c501ae5e825c08d1ffcf4e8b54ffed5c.svg",
     "static/media/sukcess.svg": "/kompostowaGmina/static/media/sukcess.cfa3514fdafa1050d150f6dbb73d9694.svg",
     "static/media/calculator.svg": "/kompostowaGmina/static/media/calculator.85accd62523712ffdbdbe33fa964abc7.svg",
@@ -15,12 +15,12 @@
     "static/media/trash.svg": "/kompostowaGmina/static/media/trash.35f1f3669489781a234052764127fd37.svg",
     "static/media/025.svg": "/kompostowaGmina/static/media/025.e58a04c0eddd8c76c897391f49eefd4a.svg",
     "index.html": "/kompostowaGmina/index.html",
-    "main.011b6696.css.map": "/kompostowaGmina/static/css/main.011b6696.css.map",
-    "main.928209db.js.map": "/kompostowaGmina/static/js/main.928209db.js.map",
-    "787.c523dbd8.chunk.js.map": "/kompostowaGmina/static/js/787.c523dbd8.chunk.js.map"
+    "main.4f01a7bd.css.map": "/kompostowaGmina/static/css/main.4f01a7bd.css.map",
+    "main.8fa00a5c.js.map": "/kompostowaGmina/static/js/main.8fa00a5c.js.map",
+    "787.bd5568af.chunk.js.map": "/kompostowaGmina/static/js/787.bd5568af.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.011b6696.css",
-    "static/js/main.928209db.js"
+    "static/css/main.4f01a7bd.css",
+    "static/js/main.8fa00a5c.js"
   ]
 }
