@@ -1,1 +1,1 @@
-# kompostowaGmina
+# Kompostowa Gmina
